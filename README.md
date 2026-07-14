@@ -1,1 +1,2 @@
 - 🔍 Senderos Seguros: ¿de verdad están funcionando?: https://omscgr.github.io/Senderos-Seguros-Evaluacion-de-Impacto/
+- 💻 Notebook:https://colab.research.google.com/drive/1r94SL4-i7_nTY_GKSldhkdQkiNo7nvK5?usp=sharing
